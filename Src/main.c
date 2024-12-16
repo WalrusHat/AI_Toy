@@ -30,7 +30,7 @@
 static uint8_t memory_buffer[MEMORY_BUFFER_SIZE] __attribute__((aligned(16)));
 
 // Access key placeholder - replace with your actual access key
-static const char *ACCESS_KEY = "${ACCESS_KEY}";
+static const char *ACCESS_KEY = "s9IfnkWz2W+0geJD7pGNO70H8rADJUjEC+5LpJ3nIP0wV+MtAauCpw==";
 
 // Keyword array from pv_porcupine_params.h
 static const uint8_t keyword_array[700] __attribute__ ((aligned (16))) = {
